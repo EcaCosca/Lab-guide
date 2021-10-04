@@ -6,7 +6,7 @@ In the repo that you are going to be working with let’s click on FORK
 <img width="102" alt="Screen Shot 1443-02-27 at 5 03 23 PM" src="https://user-images.githubusercontent.com/63668672/135865423-d1f70715-f2e8-415f-9afb-8752049492f0.png">
 
 <br>
-Check name in the top left, it should be yours, after that go to Code > Copy URL
+<strong>Check your name</strong> in the top left, it should be yours, after that go to <strong>Code > Copy URL</strong>
 
 <br>
 Open your Terminal and navigate to your homworks_labs folder inside of T1000 on your Desktop.
@@ -16,12 +16,12 @@ cd Desktop\T1000\homeworks_labs
 <br>
 Clone the github repo from the remote locacion you forked it from, into your computer.
 <br>
-git clone <paste url from the clipboard>
+git clone <strong><paste url from the clipboard></strong>
 
 <br>
 Navigate inside of the cloned folder
 <br>
-cd <name of cloned folder>
+cd <strong><name of cloned folder></strong>
 <br>
 Open the project on VS CODE
 
@@ -41,7 +41,7 @@ Back in the terminal check the changes you have just made.
 <br>
   git commit -m “First Commit”
 <br>
-  Push your changes to you forked repository on github.
+  Push your changes to your forked repository on github.
 <br>
   git push origin main
 <br>
@@ -50,4 +50,4 @@ Back in the terminal check the changes you have just made.
   Pull requests > New pull request 
 
 <br>
-Now add the title to be “[FS102021]  Your Name” > Leave a comment > Create Pull Request
+Now add the title to be <strong>“[FS102021]  Your Name”</strong> > Leave a comment > Create Pull Request
