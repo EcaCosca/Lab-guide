@@ -1,4 +1,6 @@
+<h1>
 Github lab assignments guide
+</h1>
 
 The repo that you are going to be working with let’s click on FORK
 
