@@ -23,13 +23,14 @@ Github lab assignments guide
 <br>
   
 <li>Clone the github repo from the remote locacion you forked it from, into your computer.
+<br>
 <em>git clone PASTE URL FROM THE REPO</em>
 </li>
 <br>
 <br>
 <li>Navigate inside of the cloned folder
 <br>
-<em>cd</em> <strong><name of cloned folder></strong></li>
+<em>cd<strong>NAME OF CLONED FOLDER</strong></em> </li>
 <br>
 <li>Open the project on VS CODE</li>
 
