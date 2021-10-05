@@ -4,10 +4,12 @@ Github lab assignments guide
 <br>
 <ol>
   <li>In the repo that you are going to be working with let’s click on FORK
+    <br>
 <img width="102" alt="Screen Shot 1443-02-27 at 5 03 23 PM" src="https://user-images.githubusercontent.com/63668672/135865423-d1f70715-f2e8-415f-9afb-8752049492f0.png"></li>
 
 <br>
 <li><strong>Check your name</strong> in the top left, it should be yours, after that go to <strong>Code > Copy URL</strong>
+  <br>
 <img width="578" alt="Screen Shot 1443-02-27 at 5 19 42 PM" src="https://user-images.githubusercontent.com/63668672/135868068-c1f5af71-33e0-4be9-a209-857a2ff9e3fa.png">
 
 <br>
