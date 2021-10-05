@@ -30,7 +30,7 @@ Github lab assignments guide
 <br>
 <li>Navigate inside of the cloned folder
 <br>
-<em>cd<strong>NAME OF CLONED FOLDER</strong></em> </li>
+<em>cd<strong> NAME OF CLONED FOLDER</strong></em> </li>
 <br>
 <li>Open the project on VS CODE</li>
 
@@ -61,6 +61,7 @@ Github lab assignments guide
 </li>
 <br>
 <li>Now add the title to be <strong>“[FS102021]  Your Name”</strong> > Leave a comment > Create Pull Request
+  <br> 
 <img width="179" alt="_لقطة الشاشة ١٤٤٣-٠٢-٢٧ في ٣ ٢٦ ٣٥ م" src="https://user-images.githubusercontent.com/63668672/135867567-95e9c124-516b-492b-a45e-1ba573a9bdef.png"></li>
 
 </ol>
