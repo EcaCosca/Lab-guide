@@ -16,16 +16,16 @@ Github lab assignments guide
 <img width="346" alt="Screen Shot 1443-02-27 at 5 20 08 PM" src="https://user-images.githubusercontent.com/63668672/135868137-3dedaa4f-3cbd-453d-a02d-31877fc749a3.png"></li>
   
 <li>Open your Terminal and navigate to your homworks_labs folder inside of T1000 on your Desktop.
+</li>
 
-<br>
+  <br>
 <em>cd Desktop\T1000\homeworks_labs</em>
 <br>
-</li>
+  
 <li>Clone the github repo from the remote locacion you forked it from, into your computer. <li/>
-
- <br>
+<br>
 <em>git clone</em> <strong><paste url from the clipboard></strong>
-   <br>
+<br>
 
 <br>
 <li>Navigate inside of the cloned folder
