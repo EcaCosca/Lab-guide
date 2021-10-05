@@ -50,17 +50,19 @@ Github lab assignments guide
 <br>
   <em>git commit -m “First Commit”</em></li>
 <br>
-  <li>Push your changes to your forked repository on github.
+  
+  <li>Push your changes to your forked repository on github.</li>
 <br>
-  <em>git push origin main</em></li>
+  <em>git push origin main</em>
 <br>
-  <li>Back on github, let’s go to the project URL and do a pull request.
-<br>
-  Pull requests > New pull request
+    <li>Back on github, let’s go to the project URL of our cloned repo and do a pull request. You will find the "Pull Request" tab on the left side of the project navigation menu, shown in the picture bellow, once you click it, go ahead and click the "New Pull Request" button.
+  <br>
 <img width="1249" alt="_لقطة الشاشة ١٤٤٣-٠٢-٢٧ في ٣ ٢٦ ٢٦ م" src="https://user-images.githubusercontent.com/63668672/135867623-43aa65f9-6c5a-41d6-b463-4b1f6fdfae61.png">
-</li>
-<br>
-<li>Now add the title to be <strong>“[FS102021]  Your Name”</strong> > Leave a comment > Create Pull Request
+  </li>
+
+  <br>
+
+  <li>Now add the title to be <strong>“[FS102021]  Your Name”</strong>, leave a comment stating your progress so far and click the "Create Pull Request" button.
   <br> 
 <img width="179" alt="_لقطة الشاشة ١٤٤٣-٠٢-٢٧ في ٣ ٢٦ ٣٥ م" src="https://user-images.githubusercontent.com/63668672/135867567-95e9c124-516b-492b-a45e-1ba573a9bdef.png"></li>
 
