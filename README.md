@@ -16,23 +16,23 @@ Github lab assignments guide
 <img width="346" alt="Screen Shot 1443-02-27 at 5 20 08 PM" src="https://user-images.githubusercontent.com/63668672/135868137-3dedaa4f-3cbd-453d-a02d-31877fc749a3.png"></li>
   
 <li>Open your Terminal and navigate to your homworks_labs folder inside of T1000 on your Desktop.
-</li>
-
   <br>
-<em>cd Desktop\T1000\homeworks_labs</em>
+<em>cd Desktop\T1000\homeworks_labs</em></li>
 <br>
   
 <li>Clone the github repo from the remote locacion you forked it from, into your computer.
 <br>
-<em>git clone PASTE URL FROM THE REPO</em>
-</li>
+<em>git clone PASTE URL FROM THE REPO</em></li>
 <br>
+
 <br>
+
 <li>Navigate inside of the cloned folder
 <br>
-<em>cd<strong> <NAME OF CLONED FOLDER></strong></em> </li>
+<em>cd <strong>NAME OF CLONED FOLDER</strong></em> </li>
 <br>
-<li>Open the project on VS CODE.</li>
+
+ <li>Open the project on VS CODE.</li>
 
   <br>
 <li>Change something in the project.</li>
