@@ -30,30 +30,31 @@ Github lab assignments guide
 <br>
 <li>Navigate inside of the cloned folder
 <br>
-<em>cd<strong> NAME OF CLONED FOLDER</strong></em> </li>
+<em>cd<strong> <NAME OF CLONED FOLDER></strong></em> </li>
 <br>
-<li>Open the project on VS CODE</li>
+<li>Open the project on VS CODE.</li>
 
   <br>
 <li>Change something in the project.</li>
 
   <br>
-<li>Back in the terminal check the changes you have just made.
+<li>Back in the terminal check for the changes you have just made.
 <br>
   <em>git status</em></li>
 <br>
   <li>Stage the changes you want to commit.
 <br>
   <em>git add .</em></li>
+
 <br>
   <li>Commit the changes you added to your local repository.
 <br>
   <em>git commit -m “First Commit”</em></li>
 <br>
   
-  <li>Push your changes to your forked repository on github.</li>
+  <li>Push your changes to your forked repository on github.
 <br>
-  <em>git push origin main</em>
+  <em>git push origin main</em></li>
 <br>
     <li>Back on github, let’s go to the project URL of our cloned repo and do a pull request. You will find the "Pull Request" tab on the left side of the project navigation menu, shown in the picture bellow, once you click it, go ahead and click the "New Pull Request" button.
   <br>
