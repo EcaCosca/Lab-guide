@@ -8,7 +8,7 @@ Github lab assignments guide
 <img width="102" alt="Screen Shot 1443-02-27 at 5 03 23 PM" src="https://user-images.githubusercontent.com/63668672/135865423-d1f70715-f2e8-415f-9afb-8752049492f0.png"></li>
 
 <br>
-<li><strong>Check your name</strong> in the top left, it should be yours, after that go to <strong>Code > Copy URL</strong>
+<li><strong>Check for your name</strong> in the top left, after that click on the <strong>Code</strong> pictured bellow, and copy the URL.
   <br>
 <img width="578" alt="Screen Shot 1443-02-27 at 5 19 42 PM" src="https://user-images.githubusercontent.com/63668672/135868068-c1f5af71-33e0-4be9-a209-857a2ff9e3fa.png">
 
@@ -17,12 +17,12 @@ Github lab assignments guide
   
 <li>Open your Terminal and navigate to your homworks_labs folder inside of T1000 on your Desktop.
   <br>
-<em>cd Desktop\T1000\homeworks_labs</em></li>
+<em>cd Desktop/T1000/homeworks_labs</em></li>
 <br>
   
 <li>Clone the github repo from the remote locacion you forked it from, into your computer.
 <br>
-<em>git clone PASTE URL FROM THE REPO</em></li>
+  <em>git clone <strong>PASTE URL FROM THE REPO</strong></em></li>
 <br>
 
 <br>
