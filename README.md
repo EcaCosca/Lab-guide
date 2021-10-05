@@ -21,12 +21,11 @@ Github lab assignments guide
 <em>cd Desktop\T1000\homeworks_labs</em>
 <br>
 </li>
-<li>Clone the github repo from the remote locacion you forked it from, into your computer.
+<li>Clone the github repo from the remote locacion you forked it from, into your computer. <li/>
 
  <br>
 <em>git clone</em> <strong><paste url from the clipboard></strong>
    <br>
- <li/>
 
 <br>
 <li>Navigate inside of the cloned folder
